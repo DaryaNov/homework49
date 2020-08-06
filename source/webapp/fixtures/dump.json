@@ -1,0 +1,117 @@
+[
+{
+  "model": "webapp.article",
+  "pk": 1,
+  "fields": {
+    "description": "Task45",
+    "maxdescription": "adsfghjkliko;';lkjhgfrdesaFDGTFHGYJUKJISDFGHJ",
+    "type": 1,
+    "status": 1,
+    "publish_at": "2020-08-06T15:26:20Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 2,
+  "fields": {
+    "description": "wdfghy",
+    "maxdescription": "defrfgtgyhjujik,looikjh",
+    "type": 2,
+    "status": 2,
+    "publish_at": "2020-08-06T15:26:33Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 3,
+  "fields": {
+    "description": "ADSFDG",
+    "maxdescription": "manage.py migratemanage.py migratemanage.py migrate",
+    "type": 3,
+    "status": 3,
+    "publish_at": "2020-08-06T15:27:45Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 4,
+  "fields": {
+    "description": "swdfgh",
+    "maxdescription": "swdfghswdfghswdfghswdfghswdfgh",
+    "type": 1,
+    "status": 1,
+    "publish_at": "2020-08-06T15:28:14Z"
+  }
+},
+{
+  "model": "webapp.article",
+  "pk": 5,
+  "fields": {
+    "description": "wdfghy",
+    "maxdescription": "wdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghywdfghyv",
+    "type": 2,
+    "status": 2,
+    "publish_at": "2020-08-06T15:28:36Z"
+  }
+},
+{
+  "model": "webapp.type",
+  "pk": 1,
+  "fields": {
+    "type": "Task"
+  }
+},
+{
+  "model": "webapp.type",
+  "pk": 2,
+  "fields": {
+    "type": "Bug"
+  }
+},
+{
+  "model": "webapp.type",
+  "pk": 3,
+  "fields": {
+    "type": "Enhancement"
+  }
+},
+{
+  "model": "webapp.status",
+  "pk": 1,
+  "fields": {
+    "status": "new"
+  }
+},
+{
+  "model": "webapp.status",
+  "pk": 2,
+  "fields": {
+    "status": "in_progress"
+  }
+},
+{
+  "model": "webapp.status",
+  "pk": 3,
+  "fields": {
+    "status": "done"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$150000$shtS5fbRpu8x$Ki2hUcmWp2nZP1DVSglqtLUP2D5Cm9VWkNos95EJCI8=",
+    "last_login": "2020-08-06T09:16:02.718Z",
+    "is_superuser": true,
+    "username": "Darnov",
+    "first_name": "",
+    "last_name": "",
+    "email": "dar@mail.ru",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2020-08-06T09:15:16.320Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
